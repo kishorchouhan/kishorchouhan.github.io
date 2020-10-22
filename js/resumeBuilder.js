@@ -41,7 +41,7 @@ var model;
           employer: 'Wideeye Technologies Pvt. Ltd',
           title: 'Software Developer',
           location: 'Pune',
-          dates: 'July 2019 - Present',
+          dates: 'Feb 2019 - Present',
           description:
             '● Developed Employee and Visitor tracking web app. This app tracks and manages the employees and visitors.<br>● Closely worked with back-end developers to optimize existing Web technology and implemented an Indoor positioning system using the trilateration concept.<br>● Prioritized and managed multiple tasks across multiple projects, under tight deadlines.<br>● Made the app secure using environment variable and improved the performance by making constants and removing redundant code. Converted PSD’s to standard-compliant HTML and CSS.<br>● Monitored Student tracking web app and mobile app performance and rectiﬁed front-end-related issues.<br>● Technologies Used: ReactJS, React Nave, JavaScript, Material UI, Trilateration (for indoor positioning).'
         }
