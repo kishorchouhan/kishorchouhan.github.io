@@ -7,7 +7,7 @@ var model;
   model = {
     bioData: {
       name: 'Kishor',
-      role: 'Web Developer',
+      role: 'Software Developer',
       contacts: {
         mobile: '779-385-8860',
         email: 'devkishorbwr@gmail.com',
@@ -38,6 +38,22 @@ var model;
     workData: {
       jobs: [
         {
+          employer: 'Taskmonk Technology Pvt. Ltd',
+          title: 'Software Developer',
+          location: 'Bengaluru',
+          dates: 'May 2020 - Present',
+          description:
+            '● Working on different modules related to data annotation and labelling.<br>● Developed some complete modules like Audio annotation, image digitization, Chrome-Extension etc.<br>● Contributed to some other modules too like Segmentation, Annotation, Text-based etc.<br>● Technologies used:- ReactJS, Redux, JavaScript.'
+        },
+        {
+          employer: 'Intern Labs',
+          title: 'Mentor',
+          location: 'India',
+          dates: 'Sep 2020 - Present',
+          description:
+            '● Mentor for front-end tech stacks. Mainly for Javascript, react, redux etc'
+        },
+        {
           employer: 'Wideeye Technologies Pvt. Ltd',
           title: 'Software Developer',
           location: 'Pune',
@@ -46,12 +62,12 @@ var model;
             '● Developed Employee and Visitor tracking web app. This app tracks and manages the employees and visitors.<br>● Closely worked with back-end developers to optimize existing Web technology and implemented an Indoor positioning system using the trilateration concept.<br>● Prioritized and managed multiple tasks across multiple projects, under tight deadlines.<br>● Made the app secure using environment variable and improved the performance by making constants and removing redundant code. Converted PSD’s to standard-compliant HTML and CSS.<br>● Monitored Student tracking web app and mobile app performance and rectiﬁed front-end-related issues.<br>● Technologies Used: ReactJS, React Nave, JavaScript, Material UI, Trilateration (for indoor positioning).'
         },
         {
-          employer: 'Taskmonk Technology Private Limited',
-          title: 'Software Developer',
-          location: 'Bengaluru',
-          dates: 'May 2020 - Present',
+          employer: 'The Legend Shooting Range',
+          title: 'Software Developer(Freelance)',
+          location: 'Jaipur',
+          dates: 'Jun 2018 - Jan 2020',
           description:
-            '● Working on different modules related to data annotation and labelling.<br>● Technologies used:- ReactJS, Redux, JavaScript.'
+            '● Developed the commercial website for The Legend Shooting Range using WordPress, HTML, CSS and Javascript.'
         }
       ]
     },
@@ -91,7 +107,7 @@ var model;
             "An interactive resume application that reads your resume content from a JSON file and dynamically displays that content within a provided template. Further customized the project by personalizing the design using CSS.<br>Created this online Interactive Resume as part of the Project of JavaScript Basics course in Udacity's Front-End Web Developer Nanodegree.<br>► Technologies used: objects, functions, conditionals, and control structures to compose the content that will display on the resume.",
           images: ['images/resume.png'],
           url:
-            'https://kishorchouhan.github.io/Interactive_Resume-Udacity_Project/'
+            'https://kishorchouhan.github.io/'
         },
         {
           title: 'Todo App',
