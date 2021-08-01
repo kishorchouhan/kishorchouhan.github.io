@@ -65,7 +65,7 @@ var model;
           employer: 'The Legend Shooting Range',
           title: 'Software Developer(Freelance)',
           location: 'Jaipur',
-          dates: 'Jun 2018 - Jan 2020',
+          dates: 'Jun 2018 - Jan 2019',
           description:
             '● Developed the commercial website for The Legend Shooting Range using WordPress, HTML, CSS and Javascript.'
         }
