@@ -9,7 +9,7 @@ var model;
       name: 'Kishor',
       role: 'Software Developer',
       contacts: {
-        mobile: '779-385-8860',
+        mobile: '773-785-0385',
         email: 'devkishorbwr@gmail.com',
         github: '@kishorchouhan',
         linkedin: '@kishorchouhan',
