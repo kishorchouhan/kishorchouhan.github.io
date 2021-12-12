@@ -43,7 +43,7 @@ var model;
           location: 'Bengaluru',
           dates: 'May 2020 - Present',
           description:
-            '● Working on different modules related to data annotation and labelling.<br>● Developed some complete modules like Audio annotation, image digitization, Chrome-Extension etc.<br>● Contributed to some other modules too like Segmentation, Annotation, Text-based etc.<br>● Technologies used:- ReactJS, Redux, JavaScript.'
+            '● Working on different modules related to data annotation and labelling.<br>● Designed and developed Audio annotation, image digitization and Chrome-Extension modules.<br>● Implemented multiple features in Segmentation, Annotation, Text-based modules.<br>● Revamped the codebase to improve readability and performance using web worker, throttling, debounce, windowing, local storage etc.<br>● Directly interacted with customers to deliver the best UI experience.<br>● Involved in customer success and customer support teams. Collaboration in making the KB.<br>● Technologies used:- ReactJS, Redux, JavaScript, Material UI, SaSS, Cypress, Git, Webpack etc.'
         },
         {
           employer: 'Intern Labs',
@@ -74,6 +74,28 @@ var model;
 
     projectData: {
       projects: [
+        {
+          title: 'Chrome-Extension',
+          dates: '2020',
+          description:
+            "► This extension opens the e-commerce website with an I-frame inside it, which has an external website containing a form.<br>► This tool allows the user to fill the data without switching the tabs which increase users productivity.<br>► Technologies: HTML, CSS, JavaScript, JSON, API’s, OAuth2, Iframe, Manifest file, Extension deployment.",
+          images: [],
+          url:''
+        },
+        {
+          title: 'Audio Annotation Tool',
+          dates: '2021',
+          description: "► This tool can be used to annotate/transcribe, translate or transliterate the audio.<br>► This tool contains a dual-channel audio player with different controls and waveforms.<br>► It also supports word highlight, tagging and autocomplete suggestions in the textarea.<br>► Highlights: Multi-language transcription keyboard, Debounce for text input for suggestions, Regex for text validation, Audio to text conversion etc.<br>► Technologies: ReactJS, Redux, HTML, CSS, JavaScript.",
+          images: [],
+          url:''
+        },
+        {
+          title: 'Employee and Visitor Tracking App',
+          dates: '2019',
+          description: "► Using this app, Admin can track, manage and locate the employees and visitors on different floors of the premises.<br>► This app allows organisations to improve their company's overall productivity and security.<br>► Used key ideas of React: Passing data through props, Lifting state up, Controlled/Pure component etc.<br>► Technologies: ReactJS, React Native, JavaScript, Material UI, Trilateration (for indoor positioning).",
+          images: [],
+          url:''
+        },
         {
           title: 'Neighborhood Tour App',
           dates: '2019',
